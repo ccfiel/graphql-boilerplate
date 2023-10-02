@@ -1,5 +1,5 @@
-name: KaHero GraphQL Server Production
-run-name: ${{ github.actor }} is building KaHero GraphQL Server Production 🚀
+name: GraphQL Server Production
+run-name: ${{ github.actor }} is building GraphQL Server Production 🚀
 on: 
   release:
     types: [published]

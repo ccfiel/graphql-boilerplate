@@ -1,5 +1,5 @@
-name: KaHero GraphQL Server Staging
-run-name: ${{ github.actor }} is building KaHero GraphQL Server Staging 🚀
+name: GraphQL Server Staging
+run-name: ${{ github.actor }} is building GraphQL Server Staging 🚀
 on: 
   push:
     branches:
