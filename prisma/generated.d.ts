@@ -1,5 +1,5 @@
 /* eslint-disable */
-import type { Prisma, User, Post, Comment } from "/Users/chrisianfiel/Projects/graphql-server-boilerplate/node_modules/@prisma/client";
+import type { Prisma, User, Post, Comment } from "/Users/chrisianfiel/Projects/youstamp-server/node_modules/@prisma/client";
 export default interface PrismaTypes {
     User: {
         Name: "User";
